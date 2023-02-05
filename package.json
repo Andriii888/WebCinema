@@ -2,20 +2,20 @@
   "name": "filmoteka-first-command",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://orddreamer.github.io/filmoteka-first-command",
+  "homepage": "https://Andriii888.github.io/WebCinema",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-first-command/"
+    "build": "parcel build src/*.html --public-url /WebCinema/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orddreamer/filmoteka-first-command.git"
+    "url": "git+https://github.com/andriii888/WebCinema.git"
   },
   "keywords": [],
-  "author": "Roman Snitsarenko <roman.snitsarenko@gmail.com>",
+  "author": "Andrii Chuiko <andrii888@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/orddreamer/filmoteka-first-command/issues"
+    "url": "https://github.com/andriii888/WebCinema/issues"
   },
   "dependencies": {
     "axios": "^1.2.1",
